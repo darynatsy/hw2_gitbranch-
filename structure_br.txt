@@ -1,0 +1,17 @@
+Bug_report id#
+Summary
+Project/version
+Environment
+Preconditions
+Steps to reproduce
+Expected behaviour
+Actual behaviour
+Customer impact
+Reproducibility
+Recovery
+Severity
+Priority
+Attachments
+Author
+Status
+Assigned to
